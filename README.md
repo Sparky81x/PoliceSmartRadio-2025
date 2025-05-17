@@ -71,7 +71,7 @@ Use `DisplayConfig.ini` and `DisplayPositioning.ini` to reposition or scale the 
 
 ### 📝 Credits
 
-- Original author: **Albo1125**  
+- Original author: **Albo1125**  https://github.com/Albo1125/PoliceSmartRadio
 - 2025 update: **Sparky81x**  
 - UI concept inspired by FinKone and OfficerSquare  
 - Voiceovers sourced from original mod and RPH scanner
@@ -83,4 +83,4 @@ Use `DisplayConfig.ini` and `DisplayPositioning.ini` to reposition or scale the 
 Please report bugs or feature requests via GitHub Issues.  
 Feel free to fork and contribute.
 
-👉 [Download the mod from LSPDFR.com](https://www.lcpdfr.com/downloads/gta5mods/scripts/XXXXX-policesmartradio-2025/)
+👉 [Download the mod from LSPDFR.com](https://www.lcpdfr.com/downloads/gta5mods/scripts/51096-policesmartradio-2025-realistic-dispatch-plate-checks-panic-buttonmore/)
