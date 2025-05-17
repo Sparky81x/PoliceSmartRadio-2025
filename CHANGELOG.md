@@ -1,6 +1,6 @@
 # Changelog – PoliceSmartRadio 2025
 
-## [8.0.0.0] – 2025-05-XX
+## [8.0.0.0] – 2025-05-17
 
 ### ✅ Compatibility Updates
 - Updated for **GTA V v1.0.3521.1**
