@@ -41,8 +41,8 @@ namespace PoliceSmartRadio
             "Plugins/LSPDFR/PoliceSmartRadio/Config/ControllerConfig.ini", "Plugins/LSPDFR/PoliceSmartRadio/Config/KeyboardConfig.ini", "Plugins/LSPDFR/PoliceSmartRadio/Config/DisplayConfig.ini",
             "Plugins/LSPDFR/PoliceSmartRadio/Config/PanicButton.ini"};
 
-        internal static Version TrafficPolicerVersion = new Version("7.0.0.0");
-        internal static Version ArrestManagerVersion = new Version("8.0.0.0");
+        internal static Version TrafficPolicerVersion = new Version("7.0.0");
+        internal static Version ArrestManagerVersion = new Version("8.0.0");
         internal static string[] conflictingFiles = new string[] { "Plugins/LSPDFR/PoliceRadio.dll" };
 
         internal static string FileID = "15354";
